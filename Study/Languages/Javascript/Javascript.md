@@ -3,7 +3,7 @@
 2. [[Expressions & Conditions]]
 3. [[Loops & Functions]]
 4. [[Strings]]
-5. [[Languages/Javascript/Arrays]]
+5. [[Study/Languages/Javascript/Arrays]]
 6. [[In browser JavaScript]]
 7. [[Walking the DOM]]
 8. [[Events and DOM properties]]

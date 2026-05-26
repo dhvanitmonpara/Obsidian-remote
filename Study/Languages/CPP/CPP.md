@@ -4,7 +4,7 @@
 3. [[Recursion]]
 4. [[Break-and-Continue]]
 5. [[Pointers-and-Reference-var]]
-6. [[Languages/CPP/Arrays]]
+6. [[Study/Languages/CPP/Arrays]]
 7. [[Manipulators]]
 8. [[Struct-Union-and-Enum]]
 9. [[File-IO]]

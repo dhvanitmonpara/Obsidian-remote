@@ -1,10 +1,4 @@
 [
   "highlightr-plugin",
-  "dataview",
-  "table-editor-obsidian",
-  "obsidian-linter",
-  "notion-like-tables",
-  "darlal-switcher-plus",
-  "tag-wrangler",
-  "homepage"
+  "darlal-switcher-plus"
 ]

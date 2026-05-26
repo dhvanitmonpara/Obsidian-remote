@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: wmq3l-pkngp
+created: 2026-02-19T14:24:47+05:30

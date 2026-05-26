@@ -71,4 +71,4 @@ Visit [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Gl
 Link to [String references](https://replit.com/@codewithharry/13Strings?v=1#.tutorial/13-strings.md)
 Link [String methods](https://replit.com/@codewithharry/14StringMethods?v=1#.tutorial/14-string-module.md) 
 
-Next topic is [[Languages/Javascript/Arrays|Arrays]].
+Next topic is [[Study/Languages/Javascript/Arrays|Arrays]].

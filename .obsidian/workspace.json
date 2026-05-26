@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e17346bc62afef02",
+        "id": "1c59eccb8c907d11",
         "type": "tabs",
         "children": [
           {
-            "id": "abfb2bb556dc8184",
+            "id": "75a8deb232bea9de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HOME.md",
+                "file": "Study/DevOps/Computer Networking/Computer Networking.md",
                 "mode": "preview",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HOME"
+              "title": "Computer Networking"
             }
           }
         ]
@@ -83,26 +74,6 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "1f004c2fa5f0e44c",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mk-file-view"
-            }
-          },
-          {
-            "id": "091fe1e9faffec12",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mk-path-view"
-            }
           }
         ]
       }
@@ -148,16 +119,6 @@
             }
           },
           {
-            "id": "042f2bbf9a5a7d6e",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "f94cf48dcc2326c2",
             "type": "leaf",
             "state": {
@@ -165,25 +126,6 @@
               "state": {},
               "icon": "lucide-ghost",
               "title": "make-context-view"
-            }
-          },
-          {
-            "id": "aecb2a42e3316bf8",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "HOME.md",
-                "collapseAll": true,
-                "extraContext": true,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for HOME"
             }
           },
           {
@@ -197,6 +139,25 @@
               "icon": "lucide-list",
               "title": "Outline of HOME"
             }
+          },
+          {
+            "id": "0883dc46c1ae9cfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Study/Frameworks/Frameworks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Frameworks"
+            }
           }
         ],
         "currentTab": 1
@@ -207,67 +168,66 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "notion-like-tables:Create loom": false,
+      "audio-recorder:Start/stop recording": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "homepage:Open homepage": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "abfb2bb556dc8184",
+  "active": "d25a5d740484efdf",
   "lastOpenFiles": [
-    "DevOps/Vim.md",
-    "Linked-resources/Pasted image 20231023163623.png",
-    "Linked-resources/Communication-between-the-layers-in-OSI-model.jpg",
-    "Linked-resources/client-server-vs-p2p.png",
-    "Linked-resources/1kny4.jpg",
-    "HOME.md",
-    "Linked-resources/client-server-architecture.png",
-    "Linked-resources/1_9ZW46uHlvlyvJb5moQs9aQ.jpg",
-    "Vault.md",
-    "DevOps/DevOps.md",
-    "DevOps/Docker.md",
-    "GenAI/GenAI.md",
-    "GenAI/Roadmap.md",
-    "GenAI",
-    "Genai/Untitled.md",
-    "GenAI",
-    "DevOps/Computer Networking/TCP-IP Model/Network Layer.md",
-    "DevOps/Computer Networking/TCP-IP Model/TCP-IP Model.md",
-    "DevOps/Computer Networking/Computer Networking.md",
-    "DevOps/Git & Github/Git & Git-Hub.md",
-    "Developer roadmap.canvas",
+    "Study/DevOps/Computer Networking/OSI Model.md",
+    "Study/DevOps/Docker.md",
+    "Study/DevOps/Vim.md",
+    "Study/Frameworks/Frameworks.md",
+    "Study/Frameworks/JavaScript/JavaScript Frameworks.md",
     "README.md",
+    "Untitled.base",
+    "Study/Computer science topics/Things I learned from my projects.md",
+    "Untitled.canvas",
+    "Study",
+    "HOME.md",
+    "Study/GenAI/GenAI.md",
+    "Untitled 1.base",
+    "2026-02-19.md",
+    "Vault.md",
+    "Study/DevOps/DevOps.md",
+    "Study/Linked-resources/Pasted image 20231023163623.png",
+    "Study/Linked-resources/Communication-between-the-layers-in-OSI-model.jpg",
+    "Study/Linked-resources/client-server-vs-p2p.png",
+    "Study/Linked-resources/1kny4.jpg",
+    "Study/Linked-resources/client-server-architecture.png",
+    "Study/Linked-resources/1_9ZW46uHlvlyvJb5moQs9aQ.jpg",
+    "Study/GenAI/Roadmap.md",
+    "Study/GenAI",
+    "Genai/Untitled.md",
+    "Study/GenAI",
+    "Study/DevOps/Computer Networking/TCP-IP Model/Network Layer.md",
+    "Study/DevOps/Computer Networking/TCP-IP Model/TCP-IP Model.md",
+    "Study/DevOps/Computer Networking/Computer Networking.md",
+    "Study/DevOps/Git & Github/Git & Git-Hub.md",
+    "Developer roadmap.canvas",
     "Docker.md",
-    "Languages/CSS - Refrences/Background image.md",
-    "Languages/CSS - Refrences/CSS - Refrences.md",
-    "Languages/Languages.md",
-    "Languages/HTML/HTML.md",
-    "Languages/HTML/Semantic tags.md",
-    "Languages/HTML/Media & linking.md",
-    "Languages/HTML/Formatting.md",
-    "Languages/HTML/Resources.md",
-    "Languages/HTML/Character Entities.md",
-    "Languages/HTML/Emmet abbreviations.md",
-    "Languages/CSS - Comprehensive notes/CSS - Comprehensive notes.md",
-    "Linked-resources/unicast_routing.jpg",
-    "Linked-resources/UDP-header.jpg",
-    "Linked-resources/timeout.gif",
-    "Linked-resources/Pasted image 20230926113855.jpg",
+    "Study/Languages/CSS - Refrences/Background image.md",
+    "Study/Languages/CSS - Refrences/CSS - Refrences.md",
+    "Study/Languages/Languages.md",
+    "Study/Languages/HTML/HTML.md",
+    "Study/Languages/HTML/Semantic tags.md",
+    "Study/Languages/HTML/Media & linking.md",
+    "Study/Languages/HTML/Formatting.md",
+    "Study/Linked-resources/unicast_routing.jpg",
+    "Study/Linked-resources/UDP-header.jpg",
+    "Study/Linked-resources/timeout.gif",
+    "Study/Linked-resources/Pasted image 20230926113855.jpg",
     "Linked-resources/cn_purple_fig4.jpg.crdownload",
     "Linked-resources/ip-address-format-and-table.png.crdownload",
     "Linked-resources/unicast_routing.jpg.crdownload",
     "Linked-resources/Routing-Algorithms-1.jpg.webp.crdownload",
-    "DevOps/Computer Networking/TCP-IP Model/Computer Networking terminology/HTTP",
-    "DevOps/Computer Networking/Computer Networking terminology",
-    "DevOps/Computer Networking/TCP-IP Model",
-    "DevOps/Computer Networking"
+    "DevOps/Computer Networking/TCP-IP Model/Computer Networking terminology/HTTP"
   ]
 }
